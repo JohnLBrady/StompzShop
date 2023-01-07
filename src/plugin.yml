@@ -1,0 +1,9 @@
+name: StompzShop
+main: me.diamond.stompzstore.Main
+version: 1.2.2
+commands:
+   stompzstore:
+      description: Main command for StompzStore Plugin.
+      usage: /stompzstore
+
+depend: [Vault]
